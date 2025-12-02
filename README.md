@@ -1,3 +1,5 @@
+# kyc-verifer-ml
+
 kyc-web/ (Root)
 ├── frontend/ (React + TypeScript)
 │   ├── public/
@@ -186,5 +188,3 @@ A production-ready, full-stack Know Your Customer (KYC) verification system with
 - `POST /verify-document` - Verify ID document
 - `POST /verify-kyc` - Complete KYC verification
 - `GET /health` - ML service health# kyc-verifer-ml
-# kyc-verifer-ml
-# kyc-verifer-ml
